@@ -73,10 +73,9 @@ body {
   position: relative;
 }
 
-.movie-cattegory {
+.movie-category {
   font-size: 20px;
   font-weight: 500;
-  margin-bottom: 20px;
   text-transform: capitalize;
 }
 .movie-container {
@@ -92,7 +91,7 @@ body {
 .movie-container::-webkit-scrollbar{
     display: none;
 }
-.movie-cattegory::-webkit-scrollbar {
+.movie-category::-webkit-scrollbar {
   display: none;
 }
 .movie {
